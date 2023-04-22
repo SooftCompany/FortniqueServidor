@@ -1,5 +1,18 @@
 {
 	"UserRegistrations":
 	[
+		{
+			"Blocker":false,
+			"VBucks":0,
+			"IdentidadUser":"000000",
+			"NameUser":"nickson",
+			"Passworld":"12345",
+			"GmailContacto":"",
+			"Characters":[],
+			"Backpacks":[],
+			"Pickaxes":[],
+			"Dances":[],
+			"MusicPacks":[]
+		}
 	]
 }
