@@ -1,6 +1,7 @@
 {
 	"ServidorGamePublic":
 	{
+		"Update":0.0,
 		"Title":"Fortnique",
 		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidorTrucho.com.ar/ServiciosClientePrivate/ServerPrivateUsers.json"],
 		"Active":true
