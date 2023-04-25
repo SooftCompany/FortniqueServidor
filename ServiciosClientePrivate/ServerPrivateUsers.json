@@ -13,6 +13,20 @@
 			"Pickaxes":[],
 			"Dances":[],
 			"MusicPacks":[]
+		},
+
+		{
+			"Blocker":false,
+			"VBucks":0,
+			"IdentidadUser":"100001",
+			"NameUser":"khea",
+			"Passworld":"unaboto90",
+			"GmailContacto":"",
+			"Characters":["CID_001_Athena_Commando_F_Default","CID_004_Athena_Commando_F_Default"],
+			"Backpacks":[],
+			"Pickaxes":[],
+			"Dances":[],
+			"MusicPacks":[]
 		}
 	]
 }
