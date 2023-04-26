@@ -15,6 +15,14 @@
 			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"BID_003_RedKnight",
 			"ValorItem":1000
-		}
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Diarios",
+			"CosmeticoIdentificador":"CID_044_Athena_Commando_F_SciPop",
+			"ValorItem":1200
+		},
 	]
 }
