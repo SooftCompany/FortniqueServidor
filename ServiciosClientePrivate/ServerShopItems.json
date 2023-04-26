@@ -1,5 +1,20 @@
 {
 	"ItemsShop":
 	[
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Diarios",
+			"CosmeticoIdentificador":"CID_005_Athena_Commando_M_Default",
+			"ValorItem":0
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Diarios",
+			"CosmeticoIdentificador":"BID_003_RedKnight",
+			"ValorItem":1000
+		}
 	]
 }
