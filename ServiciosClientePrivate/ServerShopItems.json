@@ -32,5 +32,13 @@
 			"CosmeticoIdentificador":"CID_023_Athena_Commando_F",
 			"ValorItem":1200
 		},
+
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Diarios",
+			"CosmeticoIdentificador":"EID_Fresh",
+			"ValorItem":800
+		},
 	]
 }
