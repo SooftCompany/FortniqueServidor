@@ -2,7 +2,7 @@
 	"UserRegistrations":
 	[
 		{
-			"Blocker":false,
+			"Blocker":true,
 			"VBucks":2000,
 			"IdentidadUser":"000000",
 			"NameUser":"nickson",
