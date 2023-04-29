@@ -25,7 +25,7 @@
 			"Characters":["CID_001_Athena_Commando_F_Default","CID_004_Athena_Commando_F_Default"],
 			"Backpacks":[],
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
-			"Dances":["EID_DanceMoves","EID_Fresh"],
+			"Dances":["EID_DanceMoves","EID_Fresh","EID_ElectroShuffle"],
 			"MusicPacks":[]
 		}
 	]
