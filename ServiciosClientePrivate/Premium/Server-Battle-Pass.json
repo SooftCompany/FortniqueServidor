@@ -1,0 +1,9 @@
+{
+	"BattlePassPremium":
+	{
+		"SeasonActive":true,
+		"SeasonName":"Temporada 1 Capitulo 1",
+		"SeasonValor":950,
+		"SeasonCosmeticos":["CID_017_Athena_Commando_M","CID_028_Athena_Commando_F","Pickaxe_Lockjaw"]
+	}
+}
