@@ -48,5 +48,13 @@
 			"CosmeticoIdentificador":"EID_ElectroShuffle",
 			"ValorItem":800
 		},
+
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Diarios",
+			"CosmeticoIdentificador":"EID_Dab",
+			"ValorItem":500
+		},
 	]
 }
