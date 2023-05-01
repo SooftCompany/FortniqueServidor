@@ -2,6 +2,7 @@
 	"BattlePassPremium":
 	{
 		"SeasonActive":true,
+		"IconoPreview":"https://fortnite.gg/img/seasons/1.jpg",
 		"SeasonName":"Temporada 1 Capitulo 1",
 		"SeasonValor":950,
 		"SeasonCosmeticos":["CID_017_Athena_Commando_M","CID_028_Athena_Commando_F","Pickaxe_Lockjaw"]
