@@ -55,7 +55,7 @@
 			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"EID_Dab",
 			"ValorItem":500
-		}
+		},
 
 		{
 			"USD":false,
@@ -63,6 +63,6 @@
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"CID_034_Athena_Commando_F_Medieval",
 			"ValorItem":2000
-		},
+		}
 	]
 }
