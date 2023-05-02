@@ -27,6 +27,20 @@
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
 			"Dances":["EID_DanceMoves","EID_Fresh","EID_ElectroShuffle"],
 			"MusicPacks":[]
+		},
+
+		{
+			"Blocker":false,
+			"VBucks":350,
+			"IdentidadUser":"500005",
+			"NameUser":"Anonimo40",
+			"Passworld":"1010450",
+			"GmailContacto":"",
+			"Characters":["CID_001_Athena_Commando_F_Default","CID_028_Athena_Commando_F","CID_017_Athena_Commando_M"],
+			"Backpacks":["BID_003_RedKnight"],
+			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe","Pickaxe_Lockjaw"],
+			"Dances":["EID_DanceMoves"],
+			"MusicPacks":[]
 		}
 	]
 }
