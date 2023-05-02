@@ -63,6 +63,14 @@
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"CID_034_Athena_Commando_F_Medieval",
 			"ValorItem":2000
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Destacados",
+			"CosmeticoIdentificador":"HalloweenScythe",
+			"ValorItem":500
 		}
 	]
 }
