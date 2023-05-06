@@ -79,6 +79,14 @@
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"Pickaxe_ID_014_WinterCamo",
 			"ValorItem":500
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Destacados",
+			"CosmeticoIdentificador":"EID_SlowClap",
+			"ValorItem":200
 		}
 	]
 }
