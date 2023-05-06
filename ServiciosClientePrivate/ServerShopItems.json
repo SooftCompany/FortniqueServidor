@@ -70,7 +70,15 @@
 			"VauleUSD":0.00,
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"HalloweenScythe",
-			"ValorItem":600
+			"ValorItem":800
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0.00,
+			"CategoryItems":"Destacados",
+			"CosmeticoIdentificador":"Pickaxe_ID_014_WinterCamo",
+			"ValorItem":500
 		}
 	]
 }
