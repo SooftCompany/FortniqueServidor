@@ -13,7 +13,8 @@
 			"Backpacks":["BID_003_RedKnight","BID_004_BlackKnight"],
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe","HalloweenScythe","Pickaxe_ID_014_WinterCamo","Pickaxe_ID_462_Soy_4CW52"],
 			"Dances":["EID_DanceMoves","EID_Dab","EID_SlowClap","EID_FingerGuns","EID_KPopDance03","EID_Floss"],
-			"MusicPacks":["MusicPack_001_Floss"]
+			"MusicPacks":["MusicPack_001_Floss"],
+			"CosmeticsforDevelopers":["CID_Athena_Commando_F_CandyNude"]
 		},
 
 		{
