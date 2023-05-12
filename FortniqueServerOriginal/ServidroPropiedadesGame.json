@@ -1,0 +1,10 @@
+{
+	"ServidorGamePublic":
+	{
+		"Active":true,
+		"Update":0.0,
+		"Title":"Fortnique",
+		"InformationGame":["Beta cerrada, testeo previo."],
+		"ServiciosPrivate":["http://fortniquegames.servebeer.com/FortniqueServerOriginal/ServiciosClientePrivate/ServerPrivateUsers.json", "http://fortniquegames.servebeer.com/FortniqueServerOriginal/ServiciosClientePrivate/ServerShopItems.json","http://fortniquegames.servebeer.com/FortniqueServerOriginal/ServiciosClientePrivate/Premium/Server-Battle-Pass.json"]
+	}
+}
