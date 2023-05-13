@@ -83,7 +83,7 @@
 
 		{
 			"USD":false,
-			"VauleUSD":0.00,
+			"VauleUSD":0,
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"EID_SlowClap",
 			"ValorItem":200
