@@ -5,6 +5,6 @@
 		"Update":0.0,
 		"Title":"Fortnique",
 		"InformationGame":["Beta cerrada, testeo previo."],
-		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidorTrucho.com.ar/ServiciosClientePrivate/ServerPrivateUsers.json", "https://sooftcompany.github.io/FortniqueServidorTrucho.com.ar/ServiciosClientePrivate/ServerShopItems.json","https://sooftcompany.github.io/FortniqueServidorTrucho.com.ar/ServiciosClientePrivate/Premium/Server-Battle-Pass.json"]
+		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerPrivateUsers.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerShopItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/Premium/Server-Battle-Pass.json"]
 	}
 }
