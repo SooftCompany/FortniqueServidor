@@ -57,7 +57,8 @@
 			"Backpacks":[],
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
 			"Dances":["EID_DanceMoves"],
-			"MusicPacks":["MusicPack_023_OG"]
+			"MusicPacks":["MusicPack_023_OG"],
+			"Glider":["DefaultGlider"]
 		}
 	]
 }
