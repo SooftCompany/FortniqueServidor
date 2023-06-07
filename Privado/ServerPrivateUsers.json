@@ -5,7 +5,7 @@
 			"Blocker":false,
 			"Developer":true,
 			"VBucks":10000000,
-			"IdentidadUser":"000000",
+			"IdentidadUser":"0000000001",
 			"NameUser":"nickson",
 			"Passworld":"12345",
 			"GmailContacto":"",
@@ -21,7 +21,7 @@
 		{
 			"Blocker":false,
 			"VBucks":500,
-			"IdentidadUser":"100001",
+			"IdentidadUser":"0000000002",
 			"NameUser":"khea",
 			"Passworld":"unaboto90",
 			"GmailContacto":"",
@@ -35,7 +35,7 @@
 		{
 			"Blocker":false,
 			"VBucks":350,
-			"IdentidadUser":"500005",
+			"IdentidadUser":"0000000003",
 			"NameUser":"Anonimo40",
 			"Passworld":"1010450",
 			"GmailContacto":"",
@@ -44,6 +44,20 @@
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe","Pickaxe_Lockjaw"],
 			"Dances":["EID_DanceMoves"],
 			"MusicPacks":[]
+		},
+
+		{
+			"Blocker":false,
+			"VBucks":1000,
+			"IdentidadUser":"0000000004",
+			"NameUser":"alexander",
+			"Passworld":"pesesconmanos06",
+			"GmailContacto":"alex@gmail.com",
+			"Characters":["CID_001_Athena_Commando_F_Default"],
+			"Backpacks":[],
+			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
+			"Dances":["EID_DanceMoves"],
+			"MusicPacks":["MusicPack_023_OG"]
 		}
 	]
 }
