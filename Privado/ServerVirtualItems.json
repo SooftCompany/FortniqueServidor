@@ -3,21 +3,21 @@
 	[
 		{
 			"IconoItem":"T_VBucks_Tile_1000_Details_New.png",
-			"NameItem":"1000 Vbucks",
+			"NameItem":"Virtual VBucks",
 			"VauleItems":1000,
 			"USD":10
 		},
 
 		{
 			"IconoItem":"T_VBucks_Tile_2800_Details_New.png",
-			"NameItem":"2800 Vbucks",
+			"NameItem":"Virtual VBucks",
 			"VauleItems":2800,
 			"USD":25
 		},
 
 		{
 			"IconoItem":"T_VBucks_Tile_13500_Details_New.png",
-			"NameItem":"13500 Vbucks",
+			"NameItem":"Virtual VBucks",
 			"VauleItems":13500,
 			"USD":50
 		}
