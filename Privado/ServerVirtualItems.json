@@ -1,0 +1,25 @@
+{
+	"ShopDigitaleItems":
+	[
+		{
+			"IconoItem":"",
+			"NameItem":"1000 Vbucks",
+			"VauleItems":1000,
+			"USD":10
+		},
+
+		{
+			"IconoItem":"",
+			"NameItem":"1000 Vbucks",
+			"VauleItems":1800,
+			"USD":20
+		},
+
+		{
+			"IconoItem":"",
+			"NameItem":"1000 Vbucks",
+			"VauleItems":3000,
+			"USD":25
+		}
+	]
+}
