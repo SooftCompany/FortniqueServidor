@@ -2,24 +2,24 @@
 	"ShopDigitaleItems":
 	[
 		{
-			"IconoItem":"",
+			"IconoItem":"T_VBucks_Tile_1000_Details_New.png",
 			"NameItem":"1000 Vbucks",
 			"VauleItems":1000,
 			"USD":10
 		},
 
 		{
-			"IconoItem":"",
-			"NameItem":"1000 Vbucks",
-			"VauleItems":1800,
-			"USD":20
+			"IconoItem":"T_VBucks_Tile_2800_Details_New.png",
+			"NameItem":"2800 Vbucks",
+			"VauleItems":2800,
+			"USD":25
 		},
 
 		{
-			"IconoItem":"",
-			"NameItem":"1000 Vbucks",
-			"VauleItems":3000,
-			"USD":25
+			"IconoItem":"T_VBucks_Tile_13500_Details_New.png",
+			"NameItem":"13500 Vbucks",
+			"VauleItems":13500,
+			"USD":50
 		}
 	]
 }
