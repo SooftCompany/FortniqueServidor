@@ -15,7 +15,7 @@
 			"Dances":["EID_DanceMoves","EID_Dab","EID_SlowClap","EID_FingerGuns","EID_KPopDance03","EID_Floss","EID_Fresh","EID_ElectroShuffle","EID_Chew"],
 			"MusicPacks":["MusicPack_001_Floss","MusicPack_003_OGRemix","MusicPack_017_PhoneItIn","MusicPack_KheaYoungFlex_Album_01","MusicPack_069_OldSchool"],
 			"Glider":["DefaultGlider","Glider_Warthog","Glider_ID_001"],
-			"LoadingScreens":["LSID_DefaultBG"],
+			"LoadingScreens":["LSID_DefaultBG","LSID_STW001_HitTheRoad"],
 			"CosmeticsforDevelopers":["CID_Athena_Commando_F_CandyNude","CID_Athena_Commando_F_ArmstongNude","CID_Athena_Commando_F_RamaNude"]
 		},
 
