@@ -87,6 +87,14 @@
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"EID_SlowClap",
 			"ValorItem":200
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CategoryItems":"Destacados",
+			"CosmeticoIdentificador":"LSID_295_Headcase",
+			"ValorItem":50
 		}
 	]
 }
