@@ -95,6 +95,14 @@
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"LSID_295_Headcase",
 			"ValorItem":50
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CategoryItems":"Destacados",
+			"CosmeticoIdentificador":"Character_FauxVenom",
+			"ValorItem":1200
 		}
 	]
 }
