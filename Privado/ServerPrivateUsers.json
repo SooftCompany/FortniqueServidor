@@ -61,6 +61,23 @@
 			"Dances":["EID_DanceMoves"],
 			"MusicPacks":["MusicPack_023_OG"],
 			"Glider":["DefaultGlider"]
+		},
+
+		{
+			"Blocker":false,
+			"AccountRecords":["Cuenta creada 12/junio/23"],
+			"VBucks":150,
+			"IdentidadUser":"0000000005",
+			"NameUser":"ElFosforo",
+			"Passworld":"autofierro950$$",
+			"GmailContacto":"fosforro1992",
+			"Characters":["CID_001_Athena_Commando_F_Default"],
+			"Backpacks":[],
+			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
+			"Dances":["EID_DanceMoves"],
+			"MusicPacks":["MusicPack_023_OG"],
+			"Glider":["DefaultGlider"],
+			"LoadingScreens":["LSID_DefaultBG"],
 		}
 	]
 }
