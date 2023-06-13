@@ -77,7 +77,7 @@
 			"Dances":["EID_DanceMoves"],
 			"MusicPacks":["MusicPack_023_OG"],
 			"Glider":["DefaultGlider"],
-			"LoadingScreens":["LSID_DefaultBG"],
+			"LoadingScreens":["LSID_DefaultBG"]
 		}
 	]
 }
