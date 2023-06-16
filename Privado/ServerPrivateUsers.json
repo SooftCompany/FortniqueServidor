@@ -15,7 +15,7 @@
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe","HalloweenScythe","Pickaxe_ID_014_WinterCamo","Pickaxe_ID_462_Soy_4CW52","Pickaxe_Lockjaw"],
 			"Dances":["EID_DanceMoves","EID_Dab","EID_SlowClap","EID_FingerGuns","EID_KPopDance03","EID_Floss","EID_Fresh","EID_ElectroShuffle","EID_Chew","EID_TakeTheL"],
 			"MusicPacks":["MusicPack_001_Floss","MusicPack_003_OGRemix","MusicPack_017_PhoneItIn","MusicPack_Artkheadukocazzu_Album","MusicPack_069_OldSchool","MusicPack_Shedgafo_Album","MusicPack_026_LasagnaChill"],
-			"Glider":["DefaultGlider","Glider_Warthog","Glider_ID_001"],
+			"Glider":["DefaultGlider","Glider_Warthog","Glider_ID_001","Glider_ID_007_TurtleShell"],
 			"LoadingScreens":["LSID_DefaultBG","LSID_STW001_HitTheRoad","LSID_023_Candy","LSID_295_Headcase","LoadingScreen_RoseDust_Alt","LSID_324_BuffCatFan_99Q4A"],
 			"CosmeticsforDevelopers":["CID_Athena_Commando_F_CandyNude","CID_Athena_Commando_F_ArmstongNude","CID_Athena_Commando_F_RamaNude"]
 		},
