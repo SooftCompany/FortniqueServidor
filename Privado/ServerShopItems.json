@@ -103,6 +103,14 @@
 			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"Character_FauxVenom",
 			"ValorItem":1200
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CategoryItems":"Diarios",
+			"CosmeticoIdentificador":"CID_A_475_Athena_Commando_F_PlatinumBlue",
+			"ValorItem":1500
 		}
 	]
 }
