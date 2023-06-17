@@ -2,7 +2,7 @@
 	"ServidorGamePublic":
 	{
 		"Active":true,
-		"Update":0.2,
+		"Update":0.3,
 		"Title":"Fortnique",
 		"InformationGame":["Beta cerrada, testeo previo.","el mejor fan game, fortnite fucionado con minecraft!"],
 		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerPrivateUsers.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerShopItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/Premium/Server-Battle-Pass.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerVirtualItems.json"]
