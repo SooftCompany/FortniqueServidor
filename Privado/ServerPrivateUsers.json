@@ -124,12 +124,12 @@
 			"NameUser":"oxpvzslol",
 			"Passworld":"pornodefreefirexd",
 			"GmailContacto":"holafamilia709@gmail.com",
-			"Characters":["CID_001_Athena_Commando_F_Default"],
+			"Characters":["CID_001_Athena_Commando_F_Default","CID_017_Athena_Commando_M","CID_028_Athena_Commando_F"],
 			"Backpacks":[],
-			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
+			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe","Pickaxe_Lockjaw"],
 			"Dances":["EID_DanceMoves","EID_Pompous","EID_KPopDance03"],
 			"MusicPacks":["MusicPack_023_OG"],
-			"Glider":["DefaultGlider"],
+			"Glider":["DefaultGlider","Glider_ID_001","Glider_Warthog"],
 			"LoadingScreens":["LSID_DefaultBG"]
 		},
 
