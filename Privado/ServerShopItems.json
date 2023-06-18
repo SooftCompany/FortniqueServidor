@@ -119,6 +119,14 @@
 			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"Glider_ID_007_TurtleShell",
 			"ValorItem":500
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CategoryItems":"Diarios",
+			"CosmeticoIdentificador":"MusicPack_Artkheadukocazzu_Album",
+			"ValorItem":200
 		}
 	]
 }
