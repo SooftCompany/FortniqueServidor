@@ -106,7 +106,7 @@
 			"NameUser":"arcadia",
 			"Passworld":"snapdragon845procesador",
 			"GmailContacto":"rueda3569@gmail.com",
-			"Characters":["CID_001_Athena_Commando_F_Default","CID_005_Athena_Commando_M_Default","CID_017_Athena_Commando_M","CID_028_Athena_Commando_F","Character_RoseDust"],
+			"Characters":["CID_001_Athena_Commando_F_Default","CID_005_Athena_Commando_M_Default","CID_017_Athena_Commando_M","CID_028_Athena_Commando_F","Character_RoseDust","Character_FearlessFlightHero"],
 			"Backpacks":[],
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe","Pickaxe_Lockjaw"],
 			"Dances":["EID_DanceMoves","EID_SlowClap","EID_KPopDance03","EID_TakeTheL","EID_BestMates","EID_Pompous"],
