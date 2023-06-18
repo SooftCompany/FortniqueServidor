@@ -99,6 +99,7 @@
 
 		{
 			"Blocker":false,
+			"Developer":true,
 			"AccountRecords":["Cuenta creada 18/junio/23"],
 			"VBucks":300,
 			"IdentidadUser":"0000000007",
@@ -111,7 +112,8 @@
 			"Dances":["EID_DanceMoves"],
 			"MusicPacks":["MusicPack_023_OG","MusicPack_Artkheadukocazzu_Album"],
 			"Glider":["DefaultGlider","Glider_ID_001","Glider_Warthog"],
-			"LoadingScreens":["LSID_DefaultBG","LSID_295_Headcase"]
+			"LoadingScreens":["LSID_DefaultBG","LSID_295_Headcase"],
+			"CosmeticsforDevelopers":["CID_Athena_Commando_F_CandyNude","CID_Athena_Commando_F_ArmstongNude","CID_Athena_Commando_F_RamaNude"]
 		},
 
 		{
