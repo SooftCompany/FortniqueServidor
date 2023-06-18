@@ -2,7 +2,7 @@
 	"UserRegistrations":
 	[
 		{
-			"Blocker":false,
+			"Blocker":true,
 			"Developer":true,
 			"AccountRecords":["Cuenta creada el 08/03/23","esta cuenta es de desarollador","la cuenta se eliminara el 20/09/23","vos sos el primer usuario!"],
 			"VBucks":10000000,
