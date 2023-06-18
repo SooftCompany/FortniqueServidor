@@ -109,7 +109,7 @@
 			"Characters":["CID_001_Athena_Commando_F_Default","CID_005_Athena_Commando_M_Default","CID_017_Athena_Commando_M","CID_028_Athena_Commando_F"],
 			"Backpacks":[],
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe","Pickaxe_Lockjaw"],
-			"Dances":["EID_DanceMoves","EID_SlowClap","EID_KPopDance03","EID_TakeTheL","EID_BestMates"],
+			"Dances":["EID_DanceMoves","EID_SlowClap","EID_KPopDance03","EID_TakeTheL","EID_BestMates","EID_Pompous"],
 			"MusicPacks":["MusicPack_023_OG","MusicPack_Artkheadukocazzu_Album"],
 			"Glider":["DefaultGlider","Glider_ID_001","Glider_Warthog"],
 			"LoadingScreens":["LSID_DefaultBG","LSID_295_Headcase"],
