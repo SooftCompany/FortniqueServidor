@@ -127,7 +127,7 @@
 			"Characters":["CID_001_Athena_Commando_F_Default"],
 			"Backpacks":[],
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
-			"Dances":["EID_DanceMoves","EID_Pompous"],
+			"Dances":["EID_DanceMoves","EID_Pompous","EID_KPopDance03"],
 			"MusicPacks":["MusicPack_023_OG"],
 			"Glider":["DefaultGlider"],
 			"LoadingScreens":["LSID_DefaultBG"]
