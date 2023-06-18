@@ -78,6 +78,40 @@
 			"MusicPacks":["MusicPack_023_OG"],
 			"Glider":["DefaultGlider"],
 			"LoadingScreens":["LSID_DefaultBG"]
+		},
+
+		{
+			"Blocker":false,
+			"AccountRecords":[""],
+			"VBucks":0,
+			"IdentidadUser":"0000000006",
+			"NameUser":"freefirexd",
+			"Passworld":"tuabueloestaenlacarcelXD",
+			"GmailContacto":"gayyayporno@gmail.com",
+			"Characters":["CID_001_Athena_Commando_F_Default"],
+			"Backpacks":[],
+			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
+			"Dances":["EID_DanceMoves"],
+			"MusicPacks":["MusicPack_023_OG"],
+			"Glider":["DefaultGlider"],
+			"LoadingScreens":["LSID_DefaultBG"]
+		},
+
+		{
+			"Blocker":false,
+			"AccountRecords":[""],
+			"VBucks":0,
+			"IdentidadUser":"0000000007",
+			"NameUser":"arcadia",
+			"Passworld":"snapdragon845procesador",
+			"GmailContacto":"rueda3569@gmail.com",
+			"Characters":["CID_001_Athena_Commando_F_Default"],
+			"Backpacks":[],
+			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
+			"Dances":["EID_DanceMoves"],
+			"MusicPacks":["MusicPack_023_OG"],
+			"Glider":["DefaultGlider"],
+			"LoadingScreens":["LSID_DefaultBG"]
 		}
 	]
 }
