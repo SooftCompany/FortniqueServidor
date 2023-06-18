@@ -119,7 +119,7 @@
 		{
 			"Blocker":false,
 			"AccountRecords":["Cuenta creada 18/junio/23"],
-			"VBucks":0,
+			"VBucks":1200,
 			"IdentidadUser":"0000000008",
 			"NameUser":"oxpvzslol",
 			"Passworld":"pornodefreefirexd",
@@ -127,7 +127,7 @@
 			"Characters":["CID_001_Athena_Commando_F_Default"],
 			"Backpacks":[],
 			"Pickaxes":["Pickaxe_ID_475_ChOnePickaxe"],
-			"Dances":["EID_DanceMoves"],
+			"Dances":["EID_DanceMoves","EID_Pompous"],
 			"MusicPacks":["MusicPack_023_OG"],
 			"Glider":["DefaultGlider"],
 			"LoadingScreens":["LSID_DefaultBG"]
