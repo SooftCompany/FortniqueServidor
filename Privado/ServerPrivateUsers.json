@@ -2,13 +2,13 @@
 	"UserRegistrations":
 	[
 		{
-			"Blocker":true,
+			"Blocker":false,
 			"Developer":true,
 			"AccountRecords":["Cuenta creada el 08/03/23","esta cuenta es de desarollador","la cuenta se eliminara el 20/09/23","vos sos el primer usuario!"],
 			"VBucks":10000000,
 			"IdentidadUser":"0000000001",
 			"NameUser":"nickson",
-			"Passworld":"12345",
+			"Passworld":"4040123",
 			"GmailContacto":"",
 			"Characters":["CID_001_Athena_Commando_F_Default","CID_004_Athena_Commando_F_Default","CID_005_Athena_Commando_M_Default","CID_119_Athena_Commando_F_Candy","CID_044_Athena_Commando_F_SciPop","CID_034_Athena_Commando_F_Medieval","CID_029_Athena_Commando_F_Halloween","CID_035_Athena_Commando_M_Medieval","CID_017_Athena_Commando_M","CID_028_Athena_Commando_F","CID_023_Athena_Commando_F","CID_039_Athena_Commando_F_Disco","CID_A_255_Athena_Commando_F_SAM_QA7ZS","CID_237_Athena_Commando_F_Cowgirl","CID_173_Athena_Commando_F_StarfishUniform","Character_RoseDust","Character_FauxVenom","CID_A_475_Athena_Commando_F_PlatinumBlue","Character_FearlessFlightHero"],
 			"Backpacks":["BID_003_RedKnight","BID_004_BlackKnight"],
