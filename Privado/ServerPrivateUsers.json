@@ -2,7 +2,7 @@
 	"UserRegistrations":
 	[
 		{
-			"Blocker":true,
+			"Blocker":false,
 			"Developer":true,
 			"AccountRecords":["Cuenta creada el 08/03/23"],
 			"UserName":"SoyDuko",
