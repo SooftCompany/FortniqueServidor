@@ -4,10 +4,19 @@
 		{
 			"Blocker":false,
 			"Developer":true,
-			"AccountRecords":["Cuenta creada el 08/03/23"],
-			"UserName":"soykheabro",
-			"ArchiveData":"Idesoykheabrodata",
-			"GmailContacto":"shekheayoungflex2005@hotmail.com"
+			"AccountRecords":["Cuenta creada el 08/junio/23"],
+			"UserName":"SoyDuko",
+			"ArchiveData":"IdeSoyDukodata",
+			"GmailContacto":"elhentaigratis2005@gmail.com"
+		},
+
+		{
+			"Blocker":false,
+			"Developer":false,
+			"AccountRecords":["Cuenta creada el 20/junio/23"],
+			"UserName":"juancho",
+			"ArchiveData":"Idejuanchodata",
+			"GmailContacto":"elusero50521@hotmail.com"
 		}
 	]
 }
