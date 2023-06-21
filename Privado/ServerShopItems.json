@@ -127,6 +127,14 @@
 			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"MusicPack_Artkheadukocazzu_Album",
 			"ValorItem":200
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CategoryItems":"Destacados",
+			"CosmeticoIdentificador":"CID_029_Athena_Commando_F_Halloween",
+			"ValorItem":1200
 		}
 	]
 }
