@@ -4,7 +4,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"CID_005_Athena_Commando_M_Default",
 			"ValorItem":0
 		},
@@ -12,7 +11,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"BID_003_RedKnight",
 			"ValorItem":1000
 		},
@@ -20,7 +18,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"CID_044_Athena_Commando_F_SciPop",
 			"ValorItem":1200
 		},
@@ -28,7 +25,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"CID_023_Athena_Commando_F",
 			"ValorItem":1200
 		},
@@ -36,7 +32,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"EID_Fresh",
 			"ValorItem":800
 		},
@@ -44,7 +39,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"EID_ElectroShuffle",
 			"ValorItem":800
 		},
@@ -52,7 +46,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"EID_Dab",
 			"ValorItem":500
 		},
@@ -60,7 +53,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"CID_034_Athena_Commando_F_Medieval",
 			"ValorItem":2000
 		},
@@ -68,7 +60,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"HalloweenScythe",
 			"ValorItem":800
 		},
@@ -76,7 +67,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"Pickaxe_ID_014_WinterCamo",
 			"ValorItem":500
 		},
@@ -92,7 +82,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"LSID_295_Headcase",
 			"ValorItem":50
 		},
@@ -100,7 +89,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"Character_FauxVenom",
 			"ValorItem":1200
 		},
@@ -108,7 +96,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"CID_A_475_Athena_Commando_F_PlatinumBlue",
 			"ValorItem":1500
 		},
@@ -116,7 +103,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"Glider_ID_007_TurtleShell",
 			"ValorItem":500
 		},
@@ -124,7 +110,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Diarios",
 			"CosmeticoIdentificador":"MusicPack_Artkheadukocazzu_Album",
 			"ValorItem":200
 		},
@@ -132,7 +117,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"CID_029_Athena_Commando_F_Halloween",
 			"ValorItem":1200
 		}
