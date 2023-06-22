@@ -110,7 +110,7 @@
 			"USD":false,
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"MusicPack_Artkheadukocazzu_Album",
-			"ValorItem":200
+			"ValorItem":500
 		},
 
 		{
@@ -125,6 +125,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"Character_LastVoiceSteel",
 			"ValorItem":1600
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"MusicPack_Shedgafo_Album",
+			"ValorItem":500
 		}
 	]
 }
