@@ -74,7 +74,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CategoryItems":"Destacados",
 			"CosmeticoIdentificador":"EID_SlowClap",
 			"ValorItem":200
 		},
@@ -118,6 +117,13 @@
 			"USD":false,
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"CID_029_Athena_Commando_F_Halloween",
+			"ValorItem":1200
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"Character_LastVoiceSteel",
 			"ValorItem":1200
 		}
 	]
