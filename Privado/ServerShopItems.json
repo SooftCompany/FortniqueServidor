@@ -159,6 +159,13 @@
 			"USD":false,
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"Backpack_Elevate",
+			"ValorItem":600
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"Pickaxe_ID_026_Brite",
 			"ValorItem":800
 		}
 	]
