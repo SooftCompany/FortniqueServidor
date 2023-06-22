@@ -132,6 +132,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"MusicPack_Shedgafo_Album",
 			"ValorItem":500
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"MusicPack_026_LasagnaChill",
+			"ValorItem":200
 		}
 	]
 }
