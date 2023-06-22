@@ -146,6 +146,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"Character_FearlessFlightMenace",
 			"ValorItem":1500
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"Character_FearlessFlightHero",
+			"ValorItem":1500
 		}
 	]
 }
