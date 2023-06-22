@@ -139,6 +139,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"MusicPack_026_LasagnaChill",
 			"ValorItem":200
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"Character_FearlessFlightMenace",
+			"ValorItem":1500
 		}
 	]
 }
