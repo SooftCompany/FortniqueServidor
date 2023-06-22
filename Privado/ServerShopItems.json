@@ -153,6 +153,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"Character_FearlessFlightHero",
 			"ValorItem":1500
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"Backpack_Elevate",
+			"ValorItem":800
 		}
 	]
 }
