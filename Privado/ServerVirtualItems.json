@@ -10,7 +10,7 @@
 		},
 
 		{
-			"State":false,
+			"State":true,
 			"IconoItem":"T_VBucks_Tile_2800_Details_New.png",
 			"NameItem":"Virtual VBucks",
 			"VauleItems":2800,
@@ -18,7 +18,7 @@
 		},
 
 		{
-			"State":false,
+			"State":true,
 			"IconoItem":"T_VBucks_Tile_13500_Details_New.png",
 			"NameItem":"Virtual VBucks",
 			"VauleItems":13500,
