@@ -10,7 +10,7 @@
 		},
 
 		{
-			"State":true,
+			"State":false,
 			"IconoItem":"T_VBucks_Tile_2800_Details_New.png",
 			"NameItem":"Virtual VBucks",
 			"VauleItems":2800,
@@ -18,11 +18,19 @@
 		},
 
 		{
-			"State":true,
+			"State":false,
 			"IconoItem":"T_VBucks_Tile_13500_Details_New.png",
 			"NameItem":"Virtual VBucks",
 			"VauleItems":13500,
 			"USD":50
+		},
+
+		{
+			"State":true,
+			"IconoItem":"IKONIKPACKIN2018.jpg",
+			"NameItem":"Ikoniko Paquete",
+			"CosmeticoPack":["CID_313_Athena_Commando_M_KpopFashion","EID_KPopDance03"],
+			"VaulePack":5000,
 		}
 	]
 }
