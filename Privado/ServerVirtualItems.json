@@ -31,7 +31,7 @@
 			"IconoItem":"IKONIKPACKIN2018.jpg",
 			"NameItem":"Ikoniko Paquete",
 			"CosmeticoPack":["CID_313_Athena_Commando_M_KpopFashion","EID_KPopDance03"],
-			"VaulePack":5000,
+			"VaulePack":5000
 		}
 	]
 }
