@@ -5,7 +5,7 @@
 		"Update":0.4,
 		"Title":"Fortnique",
 		"BlacklistedUsers":[""],
-		"ScriptServer":["6676","usuario","remove","cosmetic","EID_Pompous"],
+		"ScriptServer":["3333","usuario","remove","coin","1000"],
 		"InformationGame":["Beta cerrada, testeo previo.","mis hombres ya estan trabajndo para el parche 0.5","si empiesa aber errores repentinos se deve al mantenimiento de server."],
 		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerPrivateUsers.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerShopItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/Premium/Server-Battle-Pass.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerVirtualItems.json"]
 	}
