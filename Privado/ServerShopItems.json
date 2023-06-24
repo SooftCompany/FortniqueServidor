@@ -167,6 +167,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"Pickaxe_ID_026_Brite",
 			"ValorItem":800
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"LSID_RelopeBoolde",
+			"ValorItem":1200
 		}
 	]
 }
