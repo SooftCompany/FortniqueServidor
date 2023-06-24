@@ -138,7 +138,7 @@
 			"USD":false,
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"MusicPack_026_LasagnaChill",
-			"ValorItem":200
+			"ValorItem":500
 		},
 
 		{
@@ -180,6 +180,20 @@
 			"USD":false,
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"LSID_SatacioPoollako",
+			"ValorItem":1600
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"MusicPack_Cazzualbummuevarecord",
+			"ValorItem":600
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"LSID_Pcherbrplooparg",
 			"ValorItem":1600
 		}
 	]
