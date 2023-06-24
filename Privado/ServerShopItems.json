@@ -180,7 +180,7 @@
 			"USD":false,
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"LSID_SatacioPoollako",
-			"ValorItem":1600
+			"ValorItem":1300
 		},
 
 		{
@@ -194,6 +194,13 @@
 			"USD":false,
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"LSID_Pcherbrplooparg",
+			"ValorItem":1300
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"CID_Athena_Commando_F_CandyNude",
 			"ValorItem":1600
 		}
 	]
