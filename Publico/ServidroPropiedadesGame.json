@@ -3,6 +3,7 @@
 	{
 		"Active":true,
 		"Update":0.5,
+		"XPreward":400000,
 		"Title":"Fortnique",
 		"BlacklistedUsers":[""],
 		"ScriptServer":["5178","GhxstyP","add","coin","1200"],
