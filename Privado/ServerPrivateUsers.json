@@ -17,6 +17,15 @@
 			"UserName":"juancho",
 			"ArchiveData":"Idejuanchodata",
 			"GmailContacto":"elusero50521@hotmail.com"
+		},
+
+		{
+			"Blocker":false,
+			"Developer":false,
+			"AccountRecords":[],
+			"UserName":"alguien",
+			"ArchiveData":"Idealguiendata",
+			"GmailContacto":"tumamaxd@gmail.com"
 		}
 	]
 }
