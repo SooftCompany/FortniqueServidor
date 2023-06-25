@@ -26,6 +26,24 @@
 			"UserName":"alguien",
 			"ArchiveData":"Idealguiendata",
 			"GmailContacto":"tumamaxd@gmail.com"
+		},
+
+		{
+			"Blocker":false,
+			"Developer":false,
+			"AccountRecords":[],
+			"UserName":"jeremias1Y",
+			"ArchiveData":"Idejeremias1Ydata",
+			"GmailContacto":"jeremiasmule3@gmail.com"
+		},
+
+		{
+			"Blocker":false,
+			"Developer":false,
+			"AccountRecords":[],
+			"UserName":"Rassad",
+			"ArchiveData":"IdeRassaddata",
+			"GmailContacto":"rags@gmail.com"
 		}
 	]
 }
