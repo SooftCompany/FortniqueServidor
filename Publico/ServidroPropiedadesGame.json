@@ -5,7 +5,7 @@
 		"Update":0.5,
 		"Title":"Fortnique",
 		"BlacklistedUsers":[""],
-		"ScriptServer":[],
+		"ScriptServer":["5005","alguien","add","coin","2000"],
 		"InformationGame":["beta abierta temporalmente!","la temporada termina el 12/Julio/2023"],
 		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerPrivateUsers.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerShopItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/Premium/Server-Battle-Pass.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerVirtualItems.json"]
 	}
