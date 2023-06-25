@@ -44,15 +44,6 @@
 			"UserName":"Rassad",
 			"ArchiveData":"IdeRassaddata",
 			"GmailContacto":"rags@gmail.com"
-		},
-
-		{
-			"Blocker":false,
-			"Developer":false,
-			"AccountRecords":[],
-			"UserName":"pgodxd",
-			"ArchiveData":"Idepgodxddata",
-			"GmailContacto":""
 		}
 	]
 }
