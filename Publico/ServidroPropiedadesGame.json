@@ -2,7 +2,7 @@
 	"ServidorGamePublic":
 	{
 		"Active":true,
-		"Update":0.6,
+		"Update":0.7,
 		"XPreward":400000,
 		"Title":"Fortnique",
 		"BlacklistedUsers":[""],
