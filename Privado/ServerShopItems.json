@@ -202,6 +202,27 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"CID_Athena_Commando_F_CandyNude",
 			"ValorItem":1600
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"CID_703_Athena_Commando_M_Cyclone",
+			"ValorItem":1500
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"EID_CycloneHeadBang",
+			"ValorItem":300
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"BID_468_Cyclone",
+			"ValorItem":600
 		}
 	]
 }
