@@ -63,6 +63,16 @@
 			"UserName":"jeltycc",
 			"ArchiveData":"Idejeltyccdata",
 			"GmailContacto":"bravoadiel1000000@gmail.com"
+		},
+
+		{
+			"Blocker":false,
+			"Developer":false,
+			"AccountRecords":[],
+			"Photo":"photousuario0099.png",
+			"UserName":"El-Admin",
+			"ArchiveData":"IdeEl-Admindata",
+			"GmailContacto":"Marihuana20089@gmail.com"
 		}
 	]
 }
