@@ -223,6 +223,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"BID_468_Cyclone",
 			"ValorItem":600
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"EID_ChairTime",
+			"ValorItem":200
 		}
 	]
 }
