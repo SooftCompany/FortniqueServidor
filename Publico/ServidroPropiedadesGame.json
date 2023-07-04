@@ -6,7 +6,7 @@
 		"XPreward":400000,
 		"Title":"Fortnique",
 		"BlacklistedUsers":[""],
-		"ScriptServer":["3311","dukaosd","add","cosmetic","CID_703_Athena_Commando_M_Cyclone"],
+		"ScriptServer":["2211","naruto","add","coin","9000"],
 		"InformationGame":["beta abierta temporalmente!","la temporada termina el 12/Julio/2023"],
 		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerPrivateUsers.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerShopItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/Premium/Server-Battle-Pass.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerVirtualItems.json"]
 	}
