@@ -230,6 +230,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"EID_ChairTime",
 			"ValorItem":200
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"CID_A_024_Athena_Commando_F_Skirmish_QW2BQ",
+			"ValorItem":1600
 		}
 	]
 }
