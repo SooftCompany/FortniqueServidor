@@ -238,5 +238,12 @@
 			"CosmeticoIdentificador":"CID_A_024_Athena_Commando_F_Skirmish_QW2BQ",
 			"ValorItem":1600
 		}
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"CID_Athena_F_Skirmish_Nude",
+			"ValorItem":2000
+		}
 	]
 }
