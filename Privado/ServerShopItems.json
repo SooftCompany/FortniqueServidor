@@ -4,13 +4,6 @@
 		{
 			"USD":false,
 			"VauleUSD":0,
-			"CosmeticoIdentificador":"CID_005_Athena_Commando_M_Default",
-			"ValorItem":0
-		},
-
-		{
-			"USD":false,
-			"VauleUSD":0,
 			"CosmeticoIdentificador":"BID_003_RedKnight",
 			"ValorItem":1000
 		},
