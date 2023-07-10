@@ -237,6 +237,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"CID_Athena_F_Skirmish_Nude",
 			"ValorItem":2000
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"EID_Zippy",
+			"ValorItem":500
 		}
 	]
 }
