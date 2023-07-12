@@ -7,7 +7,7 @@
 		"VBreward":50,
 		"Title":"Fortnique",
 		"BlacklistedUsers":[],
-		"ScriptServer":["3311","alexxx90","remove","cosmetic","CID_039_Athena_Commando_F_Disco"],
+		"ScriptServer":["8888","alexxx90","add","cosmetic","EID_Pompous"],
 		"InformationGame":["beta abierta temporalmente!","la temporada termina el 12/Julio/2023"],
 		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerPrivateUsers.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerShopItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/Premium/Server-Battle-Pass.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerVirtualItems.json"]
 	}
