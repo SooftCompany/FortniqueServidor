@@ -244,6 +244,13 @@
 			"VauleUSD":0,
 			"CosmeticoIdentificador":"EID_Zippy",
 			"ValorItem":500
+		},
+
+		{
+			"USD":false,
+			"VauleUSD":0,
+			"CosmeticoIdentificador":"CID_A_357_Athena_Commando_F_ValentineFashion_B3S3R",
+			"ValorItem":1500
 		}
 	]
 }
